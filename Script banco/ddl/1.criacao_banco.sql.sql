@@ -1,0 +1,1 @@
+create database bd_frequencia_escola
