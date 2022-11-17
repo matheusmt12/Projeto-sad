@@ -1,4 +1,4 @@
-use bd_frequencia_escola
+  use bd_frequencia_escola
 
 CREATE OR ALTER PROCEDURE SP_OLTP_TURMA @DATA_CARGA DATE
 AS
