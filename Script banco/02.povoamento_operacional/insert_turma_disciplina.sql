@@ -1,0 +1,3 @@
+use bd_frequencia_escola
+
+INSERT INTO TB_TURMA_DISCIPLINA (TURMA, DISCIPLINA) VALUES (1, 1)
